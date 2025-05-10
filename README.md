@@ -1,0 +1,2 @@
+# YOLOv8StreetLamp
+基于wupenicity可持续调研报告竞赛和城市道路规划课程的小成果
