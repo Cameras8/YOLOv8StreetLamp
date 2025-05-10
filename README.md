@@ -1,6 +1,8 @@
 # 路灯状态检测系统
 
 基于YOLOv8的路灯状态检测系统，可以实现对路灯的识别以及路灯状态（亮/不亮/不够亮）的检测。
+![results](https://github.com/user-attachments/assets/91d4c446-95d0-4334-afa2-99c35f01f5b0)
+![val_batch0_pred](https://github.com/user-attachments/assets/3bff202d-dedf-4662-bca0-f55d82386b49)
 
 ## 项目介绍
 
@@ -16,7 +18,7 @@
 
 数据集包含两个类别：
 - 0: StreetLamp - 路灯
-- 1: Obscured - 不亮/不够亮的路灯
+- 1: Obscured - 遮挡状态
 
 数据集结构：
 ```
